@@ -1,0 +1,17 @@
+<map id="IPlugVST3.h" name="IPlugVST3.h">
+<area shape="rect" id="node7" href="$_i_plug_base_8h.html" title="The base class of an IPlug plug&#45;in, which interacts with the different plug&#45;in APIs. " alt="" coords="1041,88,1135,115"/>
+<area shape="rect" id="node38" href="$_i_plug_processor_8h.html" title="The base class for IPlug Audio Processing. " alt="" coords="1352,245,1475,272"/>
+<area shape="rect" id="node12" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="1721,544,1832,571"/>
+<area shape="rect" id="node14" href="$_i_plug_plugin_delegate_8h_source.html" title="IPlugPluginDelegate.h" alt="" coords="494,171,644,197"/>
+<area shape="rect" id="node20" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="189,395,312,421"/>
+<area shape="rect" id="node23" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="956,469,1063,496"/>
+<area shape="rect" id="node28" href="$_i_plug_constants_8h.html" title="Constant definitions, Types, magic numbers. " alt="" coords="1233,544,1356,571"/>
+<area shape="rect" id="node30" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="1039,320,1144,347"/>
+<area shape="rect" id="node34" href="$_i_plug_queue_8h_source.html" title="IPlugQueue.h" alt="" coords="1176,171,1277,197"/>
+<area shape="rect" id="node37" href="$_i_plug_timer_8h_source.html" title="IPlugTimer.h" alt="" coords="817,320,913,347"/>
+<area shape="rect" id="node16" href="$_i_plug_delegate__select_8h_source.html" title="IPlugDelegate_select.h" alt="" coords="435,245,592,272"/>
+<area shape="rect" id="node31" href="$_i_plug_logger_8h.html" title="IPlug logging a.k.a tracing functionality. " alt="" coords="337,395,439,421"/>
+<area shape="rect" id="node17" href="$_i_plug_delegate_8h_source.html" title="IPlugDelegate.h" alt="" coords="456,320,571,347"/>
+<area shape="rect" id="node29" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="605,395,691,421"/>
+<area shape="rect" id="node40" href="$_i_plug_processor_8cpp_source.html" title="IPlugProcessor.cpp" alt="" coords="1325,395,1460,421"/>
+</map>

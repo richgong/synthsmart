@@ -1,0 +1,7 @@
+<map id="IPlugAPP" name="IPlugAPP">
+<area shape="rect" id="node2" href="$class_i_plug_base.html" title="The base class of an IPlug plug&#45;in, which interacts with the different plug&#45;in APIs. " alt="" coords="123,163,204,189"/>
+<area shape="rect" id="node3" href="$class_i_plugin_delegate.html" title="This TODO has methods for serialization of state It provides a base interface for remote editors as w..." alt="" coords="39,80,153,107"/>
+<area shape="rect" id="node4" href="$class_i_delegate.html" title="This pure virtual interface delegates communication in both directions between a UI editor and someth..." alt="" coords="5,5,187,32"/>
+<area shape="rect" id="node5" href="$class_i_timer_callback.html" title="ITimerCallback" alt="" coords="178,80,288,107"/>
+<area shape="rect" id="node6" href="$class_i_plug_processor.html" title="IPlugProcessor\&lt; PLUG\l_SAMPLE_DST \&gt;" alt="" coords="230,155,388,197"/>
+</map>

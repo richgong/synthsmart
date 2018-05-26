@@ -1,0 +1,14 @@
+<map id="IPlugBase.h" name="IPlugBase.h">
+<area shape="rect" id="node6" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="1383,453,1493,480"/>
+<area shape="rect" id="node8" href="$_i_plug_plugin_delegate_8h_source.html" title="IPlugPluginDelegate.h" alt="" coords="526,80,676,107"/>
+<area shape="rect" id="node14" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="180,304,303,331"/>
+<area shape="rect" id="node17" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="897,379,1004,405"/>
+<area shape="rect" id="node22" href="$_i_plug_constants_8h.html" title="Constant definitions, Types, magic numbers. " alt="" coords="1153,453,1276,480"/>
+<area shape="rect" id="node24" href="$_i_plug_structs_8h_source.html" title="IPlugStructs.h" alt="" coords="1002,229,1107,256"/>
+<area shape="rect" id="node28" href="$_i_plug_queue_8h_source.html" title="IPlugQueue.h" alt="" coords="1535,80,1636,107"/>
+<area shape="rect" id="node31" href="$_i_plug_timer_8h_source.html" title="IPlugTimer.h" alt="" coords="1312,229,1408,256"/>
+<area shape="rect" id="node10" href="$_i_plug_delegate__select_8h_source.html" title="IPlugDelegate_select.h" alt="" coords="351,155,508,181"/>
+<area shape="rect" id="node25" href="$_i_plug_logger_8h.html" title="IPlug logging a.k.a tracing functionality. " alt="" coords="683,304,785,331"/>
+<area shape="rect" id="node11" href="$_i_plug_delegate_8h_source.html" title="IPlugDelegate.h" alt="" coords="364,229,479,256"/>
+<area shape="rect" id="node23" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="378,304,464,331"/>
+</map>

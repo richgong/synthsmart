@@ -1,0 +1,6 @@
+<map id="IPlugVST3Controller" name="IPlugVST3Controller">
+<area shape="rect" id="node4" href="$class_i_plug_base.html" title="The base class of an IPlug plug&#45;in, which interacts with the different plug&#45;in APIs. " alt="" coords="276,155,357,181"/>
+<area shape="rect" id="node5" href="$class_i_plugin_delegate.html" title="This TODO has methods for serialization of state It provides a base interface for remote editors as w..." alt="" coords="191,80,305,107"/>
+<area shape="rect" id="node6" href="$class_i_delegate.html" title="This pure virtual interface delegates communication in both directions between a UI editor and someth..." alt="" coords="157,5,339,32"/>
+<area shape="rect" id="node7" href="$class_i_timer_callback.html" title="ITimerCallback" alt="" coords="330,80,440,107"/>
+</map>

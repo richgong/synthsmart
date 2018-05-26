@@ -1,0 +1,8 @@
+<map id="IBitmapBase" name="IBitmapBase">
+<area shape="rect" id="node2" href="$class_i_bitmap_control.html" title="A basic control to draw a bitmap, or one frame of a stacked bitmap depending on the current value..." alt="" coords="16,80,125,107"/>
+<area shape="rect" id="node4" href="$class_i_b_knob_control.html" title="A bitmap knob/dial control. " alt="" coords="163,80,269,107"/>
+<area shape="rect" id="node6" href="$class_i_b_slider_control.html" title="IBSliderControl" alt="" coords="294,80,404,107"/>
+<area shape="rect" id="node7" href="$class_i_b_text_control.html" title="Display monospace bitmap font text. " alt="" coords="429,80,531,107"/>
+<area shape="rect" id="node3" href="$class_i_b_switch_control.html" title="A bitmap switch control. " alt="" coords="5,155,121,181"/>
+<area shape="rect" id="node5" href="$class_i_b_knob_rotater_control.html" title="IBKnobRotaterControl" alt="" coords="147,155,297,181"/>
+</map>

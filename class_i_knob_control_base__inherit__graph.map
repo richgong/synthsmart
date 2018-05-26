@@ -1,0 +1,7 @@
+<map id="IKnobControlBase" name="IKnobControlBase">
+<area shape="rect" id="node3" href="$class_i_b_knob_control.html" title="A bitmap knob/dial control. " alt="" coords="27,155,133,181"/>
+<area shape="rect" id="node5" href="$class_i_v_knob_control.html" title="A vector knob control drawn using graphics primitves. " alt="" coords="157,155,264,181"/>
+<area shape="rect" id="node6" href="$class_i_v_s_v_g_knob.html" title="A vector knob control which rotates an SVG image. " alt="" coords="288,155,381,181"/>
+<area shape="rect" id="node2" href="$class_i_control.html" title="The lowest level base class of an IGraphics control. " alt="" coords="177,5,244,32"/>
+<area shape="rect" id="node4" href="$class_i_b_knob_rotater_control.html" title="IBKnobRotaterControl" alt="" coords="5,229,155,256"/>
+</map>

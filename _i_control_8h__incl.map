@@ -1,0 +1,14 @@
+<map id="IControl.h" name="IControl.h">
+<area shape="rect" id="node4" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="608,304,719,331"/>
+<area shape="rect" id="node7" href="$_i_graphics_8h.html" title="The lowest level base class of an IGraphics context. " alt="" coords="1070,80,1159,107"/>
+<area shape="rect" id="node28" href="$_i_plug_delegate_8h_source.html" title="IPlugDelegate.h" alt="" coords="1765,80,1880,107"/>
+<area shape="rect" id="node8" href="$_i_plug_constants_8h.html" title="Constant definitions, Types, magic numbers. " alt="" coords="1699,304,1821,331"/>
+<area shape="rect" id="node9" href="$_i_plug_logger_8h.html" title="IPlug logging a.k.a tracing functionality. " alt="" coords="1462,155,1564,181"/>
+<area shape="rect" id="node20" href="$_i_graphics_constants_8h_source.html" title="IGraphicsConstants.h" alt="" coords="144,229,292,256"/>
+<area shape="rect" id="node21" href="$_i_graphics_structs_8h_source.html" title="IGraphicsStructs.h" alt="" coords="624,155,753,181"/>
+<area shape="rect" id="node26" href="$_i_graphics_utilites_8h_source.html" title="IGraphicsUtilites.h" alt="" coords="239,155,368,181"/>
+<area shape="rect" id="node27" href="$_i_graphics_popup_menu_8h.html" title="A class for setting the contents of a pop up menu NOTE: An IPopupMenu must not be declared as a tempo..." alt="" coords="1861,155,2019,181"/>
+<area shape="rect" id="node17" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="1320,229,1427,256"/>
+<area shape="rect" id="node30" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="1312,155,1435,181"/>
+<area shape="rect" id="node31" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="1698,155,1784,181"/>
+</map>

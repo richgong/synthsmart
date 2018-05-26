@@ -1,0 +1,11 @@
+<map id="IVectorBase" name="IVectorBase">
+<area shape="rect" id="node2" href="$class_i_v_drop_down_list_control.html" title="A vector drop down list. " alt="" coords="159,5,319,32"/>
+<area shape="rect" id="node3" href="$class_i_v_keyboard_control.html" title="IVKeyboardControl" alt="" coords="173,56,305,83"/>
+<area shape="rect" id="node4" href="$class_i_v_knob_control.html" title="A vector knob control drawn using graphics primitves. " alt="" coords="185,107,292,133"/>
+<area shape="rect" id="node5" href="$class_i_v_scope_control.html" title="IVScopeControl\&lt; MAXNC,\l MAXBUF \&gt;" alt="" coords="149,158,328,199"/>
+<area shape="rect" id="node6" href="$class_i_v_slider_control.html" title="IVSliderControl" alt="" coords="183,224,294,251"/>
+<area shape="rect" id="node7" href="$class_i_v_switch_control.html" title="A vector switch control. " alt="" coords="180,275,297,301"/>
+<area shape="rect" id="node9" href="$class_i_v_track_control_base.html" title="IVTrackControlBase" alt="" coords="169,325,309,352"/>
+<area shape="rect" id="node8" href="$class_i_v_contact_control.html" title="IVContactControl" alt="" coords="407,275,529,301"/>
+<area shape="rect" id="node10" href="$class_i_v_meter_control.html" title="IVMeterControl\&lt; MAXNC \&gt;" alt="" coords="377,325,559,352"/>
+</map>

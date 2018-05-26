@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['mapi',['mAPI',['../class_i_plugin_delegate.html#a3aecc9544ce3508f920a2ed6039977cf',1,'IPluginDelegate']]],
+  ['mhasui',['mHasUI',['../class_i_plugin_delegate.html#a6be73e189f74f5b7ce2a8b0471729f22',1,'IPluginDelegate']]],
+  ['mheight',['mHeight',['../class_i_plugin_delegate.html#a2a94b92178b5deaec134edf5f33232ca',1,'IPluginDelegate']]],
+  ['mhost',['mHost',['../class_i_plugin_delegate.html#addb3dce8b8c753d8621642670736b98c',1,'IPluginDelegate']]],
+  ['mhostversion',['mHostVersion',['../class_i_plugin_delegate.html#a6e0f165b0d947767d8a0372ff771e156',1,'IPluginDelegate']]],
+  ['mlatencydelay',['mLatencyDelay',['../class_i_plug_processor.html#a3ddc8931a2490020003f07ea19c9842b',1,'IPlugProcessor']]],
+  ['mmfrname',['mMfrName',['../class_i_plugin_delegate.html#a844a1540164b8d19321451095bf37f0b',1,'IPluginDelegate']]],
+  ['mmouseisover',['mMouseIsOver',['../class_i_control.html#a3696450db56287d1fe69191856759004',1,'IControl']]],
+  ['mparamgroups',['mParamGroups',['../class_i_plugin_delegate.html#a77d98c3dd27e2cdfbb6e7e3204460a90',1,'IPluginDelegate']]],
+  ['mparamidx',['mParamIdx',['../class_i_control.html#acfc25ec5d5096dedffd669e2cf74ab4e',1,'IControl']]],
+  ['mparams',['mParams',['../class_i_delegate.html#a8fae13e35e9522be8972fbc4a6d4dffa',1,'IDelegate']]],
+  ['mparams_5fmutex',['mParams_mutex',['../class_i_plugin_delegate.html#ab0fbbaf16f91f955caef7fa084e1113a',1,'IPluginDelegate']]],
+  ['mpluginname',['mPluginName',['../class_i_plugin_delegate.html#a034021221ed0d7974dae81555b0e98a1',1,'IPluginDelegate']]],
+  ['mproductname',['mProductName',['../class_i_plugin_delegate.html#a7c63f8d98ae2b1e22ac90d61bdec4273',1,'IPluginDelegate']]],
+  ['mstatechunks',['mStateChunks',['../class_i_plugin_delegate.html#a4591b3752bf500d96889c86701edde4c',1,'IPluginDelegate']]],
+  ['mversion',['mVersion',['../class_i_plugin_delegate.html#a5d47ccb1a834d7a6a2eb23a8903f6f6f',1,'IPluginDelegate']]],
+  ['mwidth',['mWidth',['../class_i_plugin_delegate.html#ae0add01526a6ff6836229f3ecc0ff8d9',1,'IPluginDelegate']]]
+];

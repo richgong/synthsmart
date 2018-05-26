@@ -1,0 +1,15 @@
+<map id="IControls.h" name="IControls.h">
+<area shape="rect" id="node2" href="$_i_control_8h.html" title="The lowest level base class of an IGraphics control. " alt="" coords="1075,80,1153,107"/>
+<area shape="rect" id="node5" href="$_i_plug_platform_8h.html" title="Include to get consistently named preprocessor macros for different platforms and logging functionali..." alt="" coords="608,379,719,405"/>
+<area shape="rect" id="node8" href="$_i_graphics_8h.html" title="The lowest level base class of an IGraphics context. " alt="" coords="1070,155,1159,181"/>
+<area shape="rect" id="node29" href="$_i_plug_delegate_8h_source.html" title="IPlugDelegate.h" alt="" coords="1765,155,1880,181"/>
+<area shape="rect" id="node9" href="$_i_plug_constants_8h.html" title="Constant definitions, Types, magic numbers. " alt="" coords="1699,379,1821,405"/>
+<area shape="rect" id="node10" href="$_i_plug_logger_8h.html" title="IPlug logging a.k.a tracing functionality. " alt="" coords="1462,229,1564,256"/>
+<area shape="rect" id="node21" href="$_i_graphics_constants_8h_source.html" title="IGraphicsConstants.h" alt="" coords="144,304,292,331"/>
+<area shape="rect" id="node22" href="$_i_graphics_structs_8h_source.html" title="IGraphicsStructs.h" alt="" coords="624,229,753,256"/>
+<area shape="rect" id="node27" href="$_i_graphics_utilites_8h_source.html" title="IGraphicsUtilites.h" alt="" coords="239,229,368,256"/>
+<area shape="rect" id="node28" href="$_i_graphics_popup_menu_8h.html" title="A class for setting the contents of a pop up menu NOTE: An IPopupMenu must not be declared as a tempo..." alt="" coords="1861,229,2019,256"/>
+<area shape="rect" id="node18" href="$_i_plug_utilities_8h.html" title="Utility functions and macros. " alt="" coords="1320,304,1427,331"/>
+<area shape="rect" id="node31" href="$_i_plug_parameter_8h_source.html" title="IPlugParameter.h" alt="" coords="1312,229,1435,256"/>
+<area shape="rect" id="node32" href="$_i_plug_midi_8h_source.html" title="IPlugMidi.h" alt="" coords="1698,229,1784,256"/>
+</map>
