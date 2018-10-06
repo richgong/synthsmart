@@ -21,8 +21,6 @@
 build-*
 /IPlugExamples/*/*.vcxproj.user
 PCH/*
-VST3_SDK/*
-VST_SDK/*
 PT9_SDK/*
 AAX_SDK/*
 ASIO_SDK/*
