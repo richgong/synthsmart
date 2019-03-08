@@ -31,7 +31,7 @@
   #include "swell.h"
   #define SLEEP( milliseconds ) usleep( (unsigned long) (milliseconds * 1000.0) )
 
-  #define DEFAULT_INPUT_DEV "Built-in Input"
+  #define DEFAULT_INPUT_DEV "Built-in Microphone" // GONG) formerly "Built-in Output"
   #define DEFAULT_OUTPUT_DEV "Built-in Output"
 
   #define DAC_COREAUDIO 0
